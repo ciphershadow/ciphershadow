@@ -1,14 +1,14 @@
 <h1>About me :computer:</h1> 
 <h2>My Name is Richard Atanasov</h2>
-<h3>A Passionate Cybersecurity Research Enthusiast!</h3>
+<h3>I Am A Passionate Cybersecurity Research Enthusiast!</h3>
 
 - 🔭 I’m currently working on **Try-Hack-Me Writeup's**
 
-- 🌱 I’m currently learning **Soc Analyst Skills, Offensive Security**
+- 🌱 I’m currently learning **Soc Analyst Skills and Offensive Security TTP's**
 
 - 📝 I regularly write articles on [https://medium.com/@justanotherinfosecnerd](https://medium.com/@justanotherinfosecnerd)
 
-- 💬 Ask me about **Information Security, Try-Hack-Me**
+- 💬 Ask me about **Information Security, Try-Hack-Me, or anything else relating to computers!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
