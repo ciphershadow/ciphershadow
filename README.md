@@ -1,5 +1,5 @@
-## About me :computer: 
-<h1>My Name is Richard Atanasov</h1>
+<h1>About me :computer:</h1> 
+<h2>My Name is Richard Atanasov</h2>
 <h3 align="center">A Passionate Cybersecurity Research Enthusiast!</h3>
 
 - 🔭 I’m currently working on **Try-Hack-Me Writeup's**
