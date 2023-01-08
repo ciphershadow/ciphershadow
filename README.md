@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@justanotherinfosecnerd](https://medium.com/@justanotherinfosecnerd)
 
-- 💬 Ask me about **Infosec, Try-Hack-Me Platform, or any other computer topics!**
+- 💬 Ask me about **Infosec, Try-Hack-Me, or any other computer topics!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
